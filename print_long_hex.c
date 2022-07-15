@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_hex - print a long decimal in hexadecimal
+ * prinlhex - print a long decimal in hexadecimal
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer

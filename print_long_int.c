@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_int - function to print long integer
+ * prinlint - function to print long integer
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
